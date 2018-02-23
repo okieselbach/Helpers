@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  DhcpOption.cpp
+DhcpOption.cpp(159): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DhcpApiCpp.vcxproj -> C:\Users\olive\Documents\Visual Studio 2017\Projects\DhcpOption_VC2017\Release\DhcpOption.exe
+  DhcpApiCpp.vcxproj -> C:\Users\olive\Documents\Visual Studio 2017\Projects\DhcpOption_VC2017\Release\DhcpOption.pdb (Full PDB)

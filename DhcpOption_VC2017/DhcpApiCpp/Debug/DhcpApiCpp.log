@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  DhcpOption.cpp
+c:\users\olive\documents\visual studio 2017\projects\dhcpoption_vc2017\dhcpapicpp\dhcpoption.cpp(159): warning C4018: '<': signed/unsigned mismatch
+  DhcpApiCpp.vcxproj -> C:\Users\olive\Documents\Visual Studio 2017\Projects\DhcpOption_VC2017\Debug\DhcpOption.exe
+  DhcpApiCpp.vcxproj -> C:\Users\olive\Documents\Visual Studio 2017\Projects\DhcpOption_VC2017\Debug\DhcpOption.pdb (Partial PDB)
