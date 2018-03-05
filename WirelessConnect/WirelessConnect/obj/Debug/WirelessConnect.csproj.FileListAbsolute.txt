@@ -1,0 +1,43 @@
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\bin\Debug\WirelessConnect.exe.config
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\bin\Debug\WirelessConnect.exe
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\bin\Debug\WirelessConnect.pdb
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\obj\Debug\MainWindow.g.cs
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\obj\Debug\App.g.cs
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect_MarkupCompile.cache
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect_MarkupCompile.lref
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\obj\Debug\MainWindow.baml
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.g.resources
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.Properties.Resources.resources
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.csproj.GenerateResource.Cache
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.exe
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.pdb
+C:\Users\olive\documents\visual studio 2015\Projects\WirelessConnect\WirelessConnect\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\bin\Debug\WirelessConnect.exe.config
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\bin\Debug\WirelessConnect.exe
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\bin\Debug\WirelessConnect.pdb
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\obj\Debug\MainWindow.g.cs
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\obj\Debug\App.g.cs
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect_MarkupCompile.cache
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect_MarkupCompile.lref
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\obj\Debug\MainWindow.baml
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.g.resources
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.Properties.Resources.resources
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.csproj.GenerateResource.Cache
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.exe
+C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.pdb
+C:\Code\Helpers\WirelessConnect\WirelessConnect\bin\Debug\WirelessConnect.exe.config
+C:\Code\Helpers\WirelessConnect\WirelessConnect\bin\Debug\WirelessConnect.exe
+C:\Code\Helpers\WirelessConnect\WirelessConnect\bin\Debug\WirelessConnect.pdb
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.csprojResolveAssemblyReference.cache
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Debug\MainWindow.g.cs
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Debug\App.g.cs
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect_MarkupCompile.cache
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect_MarkupCompile.lref
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Debug\MainWindow.baml
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.g.resources
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.Properties.Resources.resources
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.csproj.GenerateResource.Cache
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.exe
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Debug\WirelessConnect.pdb
