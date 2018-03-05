@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\obj\Release\
+C:\Code\Helpers\WirelessConnect\WirelessConnect\obj\Release\
 WirelessConnect
 none
 false
 TRACE
-C:\Code\Repos\Projects\WirelessConnect\WirelessConnect\App.xaml
+C:\Code\Helpers\WirelessConnect\WirelessConnect\App.xaml
 11151548125
 
 9-142513877
 15-163796701
 MainWindow.xaml;
 
-True
+False
 
